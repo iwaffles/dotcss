@@ -1,0 +1,16 @@
+/*table > tbody > tr:first-child > td:first-child {
+	background-color:#327CCB;
+}*/
+
+.author, .author a:visited, .author a:hover, .comhead a.author {
+    background-color: red;
+    border-radius:3px;
+    color:black;
+    padding:3px 3px 3px 3px;
+    font-weight:bold;
+}
+
+/* Show comment on hover */
+.comment:hover font {
+    color: #000;
+}
